@@ -7,5 +7,8 @@ contacts:
   - displayName: Luca-Teodor Apahidean
     pictureUrl: https://avatars.githubusercontent.com/u/145602319?v=4
     homePageUrl: https://github.com/lucaapahidean
+files:
+  - path: course1/unit1/lesson1/lessonpart2/newFile.py
+    content: x = 5
 units:
   - unit1/index.yml

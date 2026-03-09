@@ -2,6 +2,9 @@
 id: lessonpart2
 title: Page
 content: ""
+showEditor: true
+editors:
+  - course1/unit1/lesson1/lessonpart2/newFile.py
 questionGroups:
   - id: "1"
     questions:
