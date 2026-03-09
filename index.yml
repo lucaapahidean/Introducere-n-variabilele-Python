@@ -9,6 +9,6 @@ contacts:
     homePageUrl: https://github.com/lucaapahidean
 files:
   - path: course1/unit1/lesson1/lessonpart2/newFile.py
-    content: x = 5
+    content: x = 5; print(x)
 units:
   - unit1/index.yml
